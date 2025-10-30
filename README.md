@@ -1,5 +1,5 @@
 # 25A
-Cours d'automne 2025
+[Cours d'automne 2025](https://collegeboreal.ca/wp-content/uploads/2024/03/tsig_2401.pdf)
 
 | Code | Titre | Étapes |
 |-|-|-|
